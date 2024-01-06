@@ -1,5 +1,5 @@
 
-🚀 Intergalactic Code Maverick 🌌 | Full Stack Sorcerer 🧙‍♂️ | Quantum Debugger 🔍 | Pixel Picasso 🎨
+#🚀 Intergalactic Code Maverick 🌌 | Full Stack Sorcerer 🧙‍♂️ | Quantum Debugger 🔍 | Pixel Picasso 🎨
 
 Greetings, Earthlings and fellow code travelers! 👽✨ I'm BinaryBard, your friendly neighborhood Full Stack Developer from the far reaches of the coding cosmos. With a keyboard as my wand and the command line as my spellbook, I traverse the digital galaxy, leaving trails of innovative code and debugging stardust in my wake.
 
