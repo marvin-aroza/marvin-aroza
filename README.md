@@ -1,86 +1,40 @@
-# 👾 BinaryBard: Intergalactic Code Maverick 🚀  
-*Full Stack Sorcerer 🧙‍♂️ | Quantum Debugger 🔍 | Pixel Picasso 🎨*
+# Hi, I'm Marvin Aroza 👋
+
+**Full Stack Developer** based in Coventry, UK — building web applications with **Angular, TypeScript, and Node.js**.
+
+I enjoy turning ideas into clean, maintainable products, and I'm currently getting active in **open source** — contributing fixes, features, and documentation to projects I use.
+
+## 🔧 Tech stack
+
+- **Frontend:** Angular, React, TypeScript, JavaScript, HTML, CSS
+- **Backend:** Node.js, Express, Django
+- **Databases:** MongoDB, SQL
+- **Cloud & DevOps:** AWS, Azure, GCP, Git, CI/CD
+
+## 📌 Featured projects
+
+| Project | Description | Tech |
+| --- | --- | --- |
+| [Angular-csv-export](https://github.com/marvin-aroza/Angular-csv-export) | Lightweight Angular library for exporting data to CSV with configurable headers and values | TypeScript, Angular |
+| [<project-2>](https://github.com/marvin-aroza/<repo>) | <One sentence: what it does and why it's interesting> | <Tech> |
+| [<project-3>](https://github.com/marvin-aroza/<repo>) | <One sentence: what it does and why it's interesting> | <Tech> |
+
+## 📊 GitHub stats
+
+![Marvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=marvin-aroza&show_icons=true&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marvin-aroza&layout=compact&hide_border=true)
+
+## 🌱 Currently
+
+- Contributing to open source projects (first PRs in progress!)
+- Deepening my knowledge of <topic — e.g. system design, testing, cloud architecture>
+
+## 📫 Get in touch
+
+- **LinkedIn:** [linkedin.com/in/<your-handle>](https://linkedin.com/in/<your-handle>)
+- **Email:** <your-email@example.com>
+- **Portfolio:** <your-website — remove this line if you don't have one>
 
 ---
 
-> **"Writing code is easy. Summoning code from the astral plane? Now that's an adventure."**  
-> — BinaryBard, Astral Committer
-
----
-
-## 🌌 Greetings, Earthlings and Code Explorers!
-
-Step into my digital starship! I'm **BinaryBard**—your cosmic companion on this endless journey through the universe of code. With a keyboard in one hand and a mug of dark matter coffee in the other, I traverse galaxies of frontends, black holes of backends, and nebulae of cloud infrastructure, conjuring solutions and debugging anomalies across the space-time fabric.
-
----
-
-## 🪐 **Galactic Skillset**
-
-| Frontend Enchantments  | Backend Sorcery   | Database Wizardry    | Cloud Conjuring           | Version Control Voodoo       |
-|------------------------|-------------------|----------------------|---------------------------|------------------------------|
-| HTML/CSS               | Node.js           | MongoDB              | AWS                       | Git (Master of Merge-verse)  |
-| JavaScript             | Express           | SQL                  | Azure                     | Branch-Bending Techniques    |
-| React, Angular         | Django            |                      | GCP                       |                              |
-
----
-
-<!-- 
-### 🛠️ Arcane Artifacts & Tools
-
-- **VS Code:** Customized with cosmic extensions and anti-gravity themes  
-- **Docker & Kubernetes:** Container cauldrons for brewing interstellar apps  
-- **Jest, Mocha:** Bug transmutation rituals (turning bugs into butterflies)  
--->
-
-<!-- 
-## 🌠 **Projects That Bent Reality**
-
-- **Quantum Cat Compiler 🐱🌌:**  
-  _Translates feline thoughts into Python code using Schrödinger's logic. Results are simultaneously correct and incorrect._
-
-- **Time-Traveling Chat App ⌛💬:**  
-  _Send messages to your past self and witness causality collapse (terms of service cover paradoxes)._
--->
-
-<!-- 
-## 🚀 **Current Mission**
-
-**Building a web app that teleports users to alternate dimensions with a click.**  
-*Disclaimer: Interdimensional travel mishaps covered by cosmic insurance.*
--->
-
-<!-- 
-## 🎤 **Conference Oracle**
-
-I've delivered talks across the multiverse on:
-- Debugging across timelines (without creating alternate realities)
-- Turning code into magic spells (with live incantations)
-- Merging pull requests from parallel universes
--->
-
----
-
-## 🌈 **Passions Beyond the Void**
-
-- **Black Hole Photography 📸:** Capturing cosmic voids in 8K (sometimes the light escapes)
-- **Quantum Chess ♟️:** My pawns are in a superposition of winning and losing
-- **Travel 🌍:** Exploring new worlds, both digital and physical
-- **Content Creation:**  
-  Check out my relatable, funny reels and videos:  
-  - [Instagram](https://instagram.com/)  
-  - [YouTube](https://youtube.com/)
-
----
-
-## 🪐 **Ready to Join the Cosmic Adventure?**
-
-Embark with me where:
-- **Bugs fear to tread**
-- **Innovation warps the laws of physics**
-- **Commits are swift, and merges are always conflict-free**
-
-> **May your code compile on the first try, and your cosmic journey never end!**
-
----
-
-**#CodeGalacticConqueror** 🚀🌌
+*Always happy to chat about Angular, open source, or interesting problems.*
